@@ -1,7 +1,7 @@
 ---
 title: "CV"
-author: "FIRSTNAME FAMILYNAME"
-email: FIRSTNAME.FAMILYNAME@student.umons.ac.be
+author: "Clemence Terzo"
+email: clemence.terzo@student.umons.ac.be
 output: 
   pdf_document:
     latex_engine: pdflatex
@@ -10,8 +10,8 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
-github: USERNAME
-jobtitle: Etudiant à l'Université de Mons
+github: clemence-terzo
+jobtitle: Etudiante à l'Université de Mons
 keywords: Biologie, Science des données
 linkcolor: blue
 fontawesome: no
@@ -24,14 +24,14 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Athenée Royal de Dour*, orientation \hfill 2017
 
 
 # EMPLOIS
 
 *Job étudiant:*
 
- > Activité réalisée \hfill 2017--2018
+ > Service dans un vernissage \hfill 2017
 
 *Autre emploi:*
 
