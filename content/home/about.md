@@ -34,4 +34,4 @@ weight = 5
 
 # About Me
 
-I am student in bachelor at the University of Mons, Belgium.
+I am student in bachelor at the University of Mons, Belgium. I am a future ethologist.
