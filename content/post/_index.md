@@ -6,7 +6,7 @@ highlight = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/main-header.jpg"
+image = "headers/requin.jpg"
 caption = "Image credit: **Derek Thompson** on Unsplash"
 
 +++

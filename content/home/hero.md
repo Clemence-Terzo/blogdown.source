@@ -27,7 +27,7 @@ weight = 3
 
 Clemence Terzo
 <br>
-<small>A short description of myself here</small>
+<small>I am a student in bachelor of Biology at the University of Mons</small>
 <br><br>
 
 <script type="text/javascript">

@@ -11,7 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Ethology"
+    "Ethology",
+    "Animals",
+    "Evolution",
+    "Nature"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,11 +30,12 @@ weight = 5
 
 [[education.courses]]
   course = "My orientation"
-  institution = "My high school"
+  institution = "Athenée Royal de Dour"
   year = 2018
 
 +++
 
 # About Me
 
-I am student in bachelor at the University of Mons, Belgium. I am a future ethologist.
+I am student in bachelor at the University of Mons, Belgium. I did my hight school at the Royale Athene of Dour, in Belgium.
+I choose biology because I really love animals and nature and I like to learn news things about it. I want to study animals behaviours and change the world. 
