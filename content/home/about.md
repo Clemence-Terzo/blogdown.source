@@ -13,7 +13,7 @@ weight = 5
     "Biology",
     "Ethology",
     "Animals",
-    "Evolutio",
+    "Evolution",
     "Nature"
   ]
 
@@ -21,17 +21,17 @@ weight = 5
 #[[education.courses]]
 #  course = "Master in BBMC/BOE"
 #  institution = "University of Mons, Belgium"
-#  year = 2023
-
-#[[education.courses]]
+#  year = 20..
+#  
+#  #[[education.courses]]
 #  course = "Bachelor in Biology"
 #  institution = "University of Mons, Belgium"
-#  year = 2021
+#  year = 20..
 
 [[education.courses]]
-  course = "My orientation"
+  course = "Sciences"
   institution = "Athenée Royal de Dour"
-  year = 2018
+  year = 2017
 
 +++
 
