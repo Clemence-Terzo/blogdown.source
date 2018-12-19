@@ -37,5 +37,5 @@ weight = 5
 
 # About Me
 
-I am student in bachelor at the University of Mons, Belgium. I did my hight school at the Royale Athene of Dour, in Belgium.
+I am student in bachelor at the University of Mons, Belgium. I did my hight school at the Athénée Royal de Dour, in Belgium.
 I choose biology because I really love animals and nature and I like to learn news things about it. I want to study animals behaviours and change the world. 
