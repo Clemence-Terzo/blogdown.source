@@ -22,11 +22,11 @@ weight = 5
 #  course = "Master in BBMC/BOE"
 #  institution = "University of Mons, Belgium"
 #  year = 20..
-#  
-#  #[[education.courses]]
-#  course = "Bachelor in Biology"
-#  institution = "University of Mons, Belgium"
-#  year = 20..
+  
+[[education.courses]]
+  course = "Bachelor in Biology"
+  institution = "University of Mons, Belgium"
+  year = 20..
 
 [[education.courses]]
   course = "Sciences"
